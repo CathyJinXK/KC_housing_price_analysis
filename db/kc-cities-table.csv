@@ -1,0 +1,69 @@
+"population","pop2024","pop2023","pop2022","pop2020","pop2010","growth","region","city","usps","state","countyFips","county","densityMi","slug","areaMi","lng","lat","type","rank"
+759915,759915,755078,749134,740565,610654,0.00641,"West","Seattle","WA","Washington","53033","King County",9047,"washington/seattle",84,-122.352,47.6193,"City",1
+151505,151505,151574,152745,151780,128360,-0.00046,"West","Bellevue","WA","Washington","53033","King County",4527,"washington/bellevue",33.468,-122.156,47.5978,"City",2
+132306,132306,133378,134429,136592,119071,-0.00804,"West","Kent","WA","Washington","53033","King County",3911,"washington/kent",33.833,-122.213,47.388,"City",3
+103748,103748,104491,104067,106719,92372,-0.00711,"West","Renton","WA","Washington","53033","King County",4407,"washington/renton",23.54,-122.195,47.4792,"City",4
+96605,96605,97701,97881,100988,89524,-0.01122,"West","Federal Way","WA","Washington","53033","King County",4326,"washington/federal-way",22.329,-122.338,47.3116,"City",5
+90679,90679,91194,90856,92739,80869,-0.00565,"West","Kirkland","WA","Washington","53033","King County",5093,"washington/kirkland",17.806,-122.204,47.6967,"City",6
+82812,82812,83870,84855,87043,70560,-0.01261,"West","Auburn","WA","Washington","53033","King County",2800,"washington/auburn",29.577,-122.21,47.3038,"City",7
+82588,82588,80280,76712,73354,54731,0.02875,"West","Redmond","WA","Washington","53033","King County",4985,"washington/redmond",16.567,-122.115,47.6779,"City",8
+64340,64340,65116,65854,67444,57656,-0.01192,"West","Sammamish","WA","Washington","53033","King County",3150,"washington/sammamish",20.427,-122.038,47.5943,"City",9
+62199,62199,61353,59684,58815,53182,0.01379,"West","Shoreline","WA","Washington","53033","King County",5346,"washington/shoreline",11.635,-122.346,47.7569,"City",10
+50894,50894,50213,49030,48169,39957,0.01356,"West","Bothell","WA","Washington","53033","King County",3733,"washington/bothell",13.635,-122.204,47.7735,"City",11
+50310,50310,50730,50811,51989,48224,-0.00828,"West","Burien","WA","Washington","53033","King County",5011,"washington/burien",10.039,-122.345,47.4756,"City",12
+38604,38604,38977,39351,40094,30552,-0.00957,"West","Issaquah","WA","Washington","53033","King County",3183,"washington/issaquah",12.13,-122.049,47.5445,"City",13
+31937,31937,31799,30513,31384,26999,0.00434,"West","SeaTac","WA","Washington","53033","King County",3173,"washington/seatac",10.064,-122.298,47.4434,"City",14
+31688,31688,31988,32426,32887,29775,-0.00938,"West","Des Moines","WA","Washington","53033","King County",4940,"washington/des-moines",6.414,-122.318,47.3887,"City",15
+28550,28550,28434,28214,28085,22854,0.00408,"West","Maple Valley","WA","Washington","53033","King County",4755,"washington/maple-valley",6.004,-122.035,47.3671,"City",16
+24407,24407,24742,25026,25747,22770,-0.01354,"West","Mercer Island","WA","Washington","53033","King County",3824,"washington/mercer-island",6.383,-122.231,47.564,"City",17
+23901,23901,23537,23173,23114,18805,0.01547,"West","Union Hill-Novelty Hill","WA","Washington","53033","King County",986,"washington/union-hill-novelty-hill",24.244,-122.023,47.6823,"CDP",18
+23356,23356,23295,23233,23239,22494,0.00262,"West","Cottage Lake","WA","Washington","53033","King County",1027,"washington/cottage-lake",22.736,-122.076,47.7465,"CDP",19
+23224,23224,23391,23481,23891,20588,-0.00714,"West","Kenmore","WA","Washington","53033","King County",3774,"washington/kenmore",6.154,-122.247,47.7499,"City",20
+21212,21212,21125,21371,20863,17628,0.00412,"West","Covington","WA","Washington","53033","King County",3576,"washington/covington",5.932,-122.105,47.3648,"City",21
+20928,20928,21135,21377,21754,19161,-0.00979,"West","Tukwila","WA","Washington","53033","King County",2278,"washington/tukwila",9.185,-122.276,47.4763,"City",22
+18530,18530,18571,18612,19400,19102,-0.00221,"West","Fairwood","WA","Washington","53033","King County",3907,"washington/fairwood-king-county",4.743,-122.143,47.4468,"CDP",23
+18430,18430,18231,18032,17643,15645,0.01092,"West","Bryn Mawr-Skyway","WA","Washington","53033","King County",6458,"washington/bryn-mawr-skyway",2.854,-122.241,47.495,"CDP",24
+15810,15810,15644,15479,15995,13495,0.01061,"West","White Center","WA","Washington","53033","King County",6949,"washington/white-center",2.275,-122.348,47.5092,"CDP",25
+15296,15296,15128,14960,14042,12942,0.01111,"West","Lakeland North","WA","Washington","53033","King County",4762,"washington/lakeland-north",3.212,-122.282,47.3373,"CDP",26
+13800,13800,13718,13255,13472,10977,0.00598,"West","Woodinville","WA","Washington","53033","King County",2458,"washington/woodinville",5.615,-122.147,47.7577,"City",27
+13538,13538,13257,12890,12412,9370,0.0212,"West","Edgewood","WA","Washington","53033","King County",1615,"washington/edgewood",8.385,-122.286,47.2321,"City",28
+13258,13258,13465,13622,14084,10756,-0.01537,"West","Snoqualmie","WA","Washington","53033","King County",1847,"washington/snoqualmie",7.177,-121.869,47.5432,"City",29
+12806,12806,13006,13179,13606,12639,-0.01538,"West","Lake Forest Park","WA","Washington","53033","King County",3641,"washington/lake-forest-park",3.517,-122.292,47.7589,"City",30
+12778,12778,12692,12606,12467,11574,0.00678,"West","Lakeland South","WA","Washington","53033","King County",2607,"washington/lakeland-south",4.901,-122.285,47.2761,"CDP",31
+12721,12721,12697,12720,12623,11130,0.00189,"West","Enumclaw","WA","Washington","53033","King County",2458,"washington/enumclaw",5.176,-121.989,47.2022,"City",32
+12633,12633,12761,12905,13144,10396,-0.01003,"West","Newcastle","WA","Washington","53033","King County",2848,"washington/newcastle",4.435,-122.166,47.5315,"City",33
+12236,12236,12157,12079,12576,11140,0.0065,"West","East Renton Highlands","WA","Washington","53033","King County",1102,"washington/east-renton-highlands",11.099,-122.088,47.4738,"CDP",34
+10992,10992,10965,10939,10400,10624,0.00246,"West","Vashon","WA","Washington","53033","King County",297,"washington/vashon",36.962,-122.455,47.4112,"CDP",35
+10609,10609,10723,10827,11064,9346,-0.01063,"West","Fife","WA","Washington","53033","King County",1818,"washington/fife",5.834,-122.351,47.2323,"City",36
+10506,10506,10482,10457,11118,10160,0.00229,"West","Lake Morton-Berrydale","WA","Washington","53033","King County",852,"washington/lake-morton-berrydale",12.324,-122.104,47.3328,"CDP",37
+8674,8674,8517,8433,8045,6744,0.01843,"West","Duvall","WA","Washington","53033","King County",3539,"washington/duvall",2.451,-121.972,47.7355,"City",38
+8522,8522,8268,7901,7504,5856,0.03072,"West","North Bend","WA","Washington","53033","King County",1960,"washington/north-bend",4.348,-121.769,47.488,"City",39
+7311,7311,7233,7155,7031,6221,0.01078,"West","Hobart","WA","Washington","53033","King County",389,"washington/hobart",18.802,-122.005,47.4118,"CDP",40
+7187,7187,6602,6326,4846,4150,0.08861,"West","Black Diamond","WA","Washington","53033","King County",1089,"washington/black-diamond",6.598,-122.018,47.3147,"City",41
+6823,6823,6927,7015,7237,6624,-0.01501,"West","Pacific","WA","Washington","53033","King County",2819,"washington/pacific",2.42,-122.252,47.262,"City",42
+6449,6449,6527,6597,6760,6357,-0.01195,"West","Normandy Park","WA","Washington","53033","King County",2594,"washington/normandy-park",2.486,-122.345,47.433,"City",43
+4265,4265,4338,4411,4197,5287,-0.01683,"West","Boulevard Park","WA","Washington","53033","King County",3630,"washington/boulevard-park",1.175,-122.315,47.5134,"CDP",44
+4176,4176,4139,4102,4102,3659,0.00894,"West","Mirrormont","WA","Washington","53033","King County",402,"washington/mirrormont",10.4,-121.99,47.4602,"CDP",45
+3725,3725,3689,3653,3332,3221,0.00976,"West","Lake Holm","WA","Washington","53033","King County",446,"washington/lake-holm",8.361,-122.13,47.3064,"CDP",46
+3483,3483,3460,3436,3544,3152,0.00665,"West","Maple Heights-Lake Desire","WA","Washington","53033","King County",856,"washington/maple-heights-lake-desire",4.068,-122.093,47.4369,"CDP",47
+3159,3159,3191,3218,3285,3038,-0.01003,"West","Algona","WA","Washington","53033","King County",2445,"washington/algona",1.292,-122.25,47.282,"City",48
+3060,3060,3077,3090,3128,2997,-0.00552,"West","Clyde Hill","WA","Washington","53033","King County",2900,"washington/clyde-hill",1.055,-122.218,47.6304,"City",49
+2815,2815,2841,2856,2918,2982,-0.00915,"West","Medina","WA","Washington","53033","King County",1962,"washington/medina",1.435,-122.243,47.6265,"City",50
+2181,2181,2176,2199,2161,1788,0.0023,"West","Carnation","WA","Washington","53033","King County",1883,"washington/carnation",1.158,-121.901,47.6442,"City",51
+2090,2090,2103,2115,2385,2262,-0.00618,"West","Shadow Lake","WA","Washington","53033","King County",402,"washington/shadow-lake",5.194,-122.08,47.4061,"CDP",52
+2026,2026,2033,2041,2521,2132,-0.00344,"West","Riverbend","WA","Washington","53033","King County",679,"washington/riverbend",2.985,-121.751,47.4645,"CDP",53
+2022,2022,2020,2018,2357,1993,0.00099,"West","Fall City","WA","Washington","53033","King County",712,"washington/fall-city",2.838,-121.914,47.5694,"CDP",54
+1930,1930,1901,1872,1898,1523,0.01526,"West","Wilderness Rim","WA","Washington","53033","King County",3103,"washington/wilderness-rim",0.622,-121.769,47.447,"CDP",55
+1479,1479,1526,1573,1919,2137,-0.0308,"West","Fife Heights","WA","Washington","53033","King County",1506,"washington/fife-heights",0.982,-122.346,47.2607,"CDP",56
+1416,1416,1406,1396,1346,1277,0.00711,"West","Lake Marcel-Stillwater","WA","Washington","53033","King County",1109,"washington/lake-marcel-stillwater",1.277,-121.915,47.6951,"CDP",57
+1280,1280,1188,1097,961,0,0.07744,"West","Browns Point","WA","Washington","53033","King County",3153,"washington/browns-point",0.406,-122.437,47.3038,"CDP",58
+1124,1124,1043,963,742,0,0.07766,"West","Riverpoint","WA","Washington","53033","King County",886,"washington/riverpoint",1.268,-121.712,47.4797,"CDP",59
+1095,1095,1105,1115,1133,1006,-0.00905,"West","Yarrow Point","WA","Washington","53033","King County",2992,"washington/yarrow-point",0.366,-122.22,47.6446,"Town",60
+1045,1045,1076,1108,1317,1486,-0.02881,"West","Ames Lake","WA","Washington","53033","King County",652,"washington/ames-lake",1.602,-121.961,47.634,"CDP",61
+922,922,922,923,1008,931,0,"West","Dash Point","WA","Washington","53033","King County",1454,"washington/dash-point",0.634,-122.414,47.3125,"CDP",62
+443,443,446,448,455,395,-0.00673,"West","Hunts Point","WA","Washington","53033","King County",1443,"washington/hunts-point",0.307,-122.229,47.643,"Town",63
+300,300,304,306,316,300,-0.01316,"West","Beaux Arts Village","WA","Washington","53033","King County",3614,"washington/beaux-arts-village",0.083,-122.204,47.5853,"Town",64
+248,248,309,370,814,1101,-0.19741,"West","Ravensdale","WA","Washington","53033","King County",200,"washington/ravensdale",1.239,-121.98,47.3619,"CDP",65
+204,204,205,206,205,220,-0.00488,"West","Baring","WA","Washington","53033","King County",196,"washington/baring",1.043,-121.482,47.7686,"CDP",66
+153,153,156,159,164,198,-0.01923,"West","Skykomish","WA","Washington","53033","King County",487,"washington/skykomish",0.314,-121.356,47.7099,"Town",67
+113,113,105,97,77,0,0.07619,"West","Greenwater","WA","Washington","53033","King County",78,"washington/greenwater",1.452,-121.628,47.1442,"CDP",68
